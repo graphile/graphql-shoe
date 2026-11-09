@@ -1,0 +1,10 @@
+{
+  "name": "graphql-shoe",
+  "description": "Semantic Handling of Errors",
+  "version": "0.0.0",
+  "author": "Benjie Gillam <code@benjiegillam.com>",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ]
+}
